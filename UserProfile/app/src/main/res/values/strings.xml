@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">User Profile</string>
+
+    <string name="login_button_text">GİRİŞ</string>
+    <string name="register_name">Adınız</string>
+    <string name="register_surname">Soyadınız</string>
+    <string name="register_text">Kayıt Ol</string>
+    <string name="profile_update">GÜNCELLE</string>
+    <string name="profile_edit">DÜZENLE</string>
+    <string name="member_delete">ÜYELİĞİMİ SİL</string>
+    <string name="logout">ÇIKIŞ</string>
+    <string name="profile_text">Profilim</string>
+    <string name="email">E-mail</string>
+    <string name="password">Şifre</string>
+
+    //Validation
+    <string name="validate_email">Lütfen geçerli e-mail adresi giriniz!</string>
+    <string name="validate_password">Lütfen şifrenizi giriniz!</string>
+    <string name="validate_name">Lütfen adınızı giriniz!</string>
+    <string name="validate_surname">Lütfen soyadınızı giriniz!</string>
+    <string name="validate_password_character">Lütfen en az 6 karakter giriniz!</string>
+
+    //Success
+    <string name="success_register">Kayıt işlemi başarılı.</string>
+    <string name="success_update">Güncelleme işlemi başarılı.</string>
+    <string name="success_delete">Üyeliğiniz başarılı bir şekilde silindi.</string>
+
+    //Error
+    <string name="error_login">E-mail ya da şifre hatalı.</string>
+    <string name="error_register">Kayıt işlemi başarısız. Lütfen daha sonra tekrar deneyiniz.</string>
+    <string name="error_register_email">Bu email adresi zaten kayıtlı. Lütfen başka bir email adresi deneyiniz.</string>
+    <string name="error_update">Güncelleme işlemi başarısız. Lütfen daha sonra tekrar deneyiniz.</string>
+    <string name="error_delete">Üye silme işlemi başarısız. Lütfen daha sonra tekrar deneyiniz.</string>
+    <string name="error_internet_connected">İnternet erişiminizi kontrol ediniz.</string>
+
+    <string name="remember_me">Beni Hatırla</string>
+    <string name="warning">Uyarı!</string>
+    <string name="warning_text">Üyeliğinizi silmek istediğinizden emin misiniz?</string>
+    <string name="logout_text">Çıkış yapmak istediğinizden emin misiniz?</string>
+    <string name="cancel">HAYIR</string>
+    <string name="accept">EVET</string>
+</resources>

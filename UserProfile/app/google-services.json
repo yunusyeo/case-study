@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "129753311139",
+    "firebase_url": "https://case-study-e0b97.firebaseio.com",
+    "project_id": "case-study-e0b97",
+    "storage_bucket": "case-study-e0b97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129753311139:android:2760c55ee3c537b59f9c16",
+        "android_client_info": {
+          "package_name": "com.project.casestudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129753311139-7pr25dhcd93gcgomg33v2tpo2fgpdb24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv9XSf1QZ6EqNwUOg2ZIBu54y6mRneOTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129753311139-7pr25dhcd93gcgomg33v2tpo2fgpdb24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
